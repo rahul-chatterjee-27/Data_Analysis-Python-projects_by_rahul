@@ -4,19 +4,19 @@ This repository contains a collection of hands-on data analysis and visualizatio
 
 ## 🔍 Projects Included
 
-### 1. Mean-Variance-Standard Deviation Calculator
+### [1. Mean-Variance-Standard Deviation Calculator](https://github.com/rahul-chatterjee-27/freecodecamp_Python-projects_by_rahul/blob/main/mean_var_std.py)
 A statistical analysis tool that calculates mean, variance, standard deviation, max, min, and sum for given datasets using NumPy.
 
-### 2. Demographic Data Analyzer
+### [2. Demographic Data Analyzer](https://github.com/rahul-chatterjee-27/freecodecamp_Python-projects_by_rahul/blob/main/demographic_data_analyzer.py)
 Analyzes demographic data to uncover patterns related to race, education, income, and working hours using Pandas.
 
-### 3. Medical Data Visualizer
+### [3. Medical Data Visualizer](https://github.com/rahul-chatterjee-27/freecodecamp_Python-projects_by_rahul/blob/main/medical_data_visualizer.py)
 Processes medical examination data and visualizes health indicators such as BMI, cholesterol, and cardiovascular conditions using Matplotlib and Seaborn.
 
-### 4. Page View Time Series Visualizer
+### [4. Page View Time Series Visualizer](https://github.com/rahul-chatterjee-27/freecodecamp_Python-projects_by_rahul/blob/main/time_series_visualizer.py)
 Analyzes website traffic data over time and generates line plots, bar charts, and box plots to identify trends and seasonality.
 
-### 5. Sea Level Predictor
+### [5. Sea Level Predictor](https://github.com/rahul-chatterjee-27/freecodecamp_Python-projects_by_rahul/blob/main/sea_level_predictor.py)
 Uses historical sea level data to predict future trends through regression analysis and visual representation.
 
 ---
