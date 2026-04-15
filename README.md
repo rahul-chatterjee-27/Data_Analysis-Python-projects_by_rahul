@@ -1,5 +1,10 @@
 # 📊 Data Analysis with Python Projects
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)  
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)  
+![Projects](https://img.shields.io/badge/Projects-5-orange?style=for-the-badge)  
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge)  
+
 This repository contains a collection of hands-on data analysis and visualization projects built using Python. Each project focuses on extracting insights from real-world datasets and presenting them using statistical methods and visualizations.
 
 ## 🔍 Projects Included
