@@ -56,10 +56,15 @@ The goal of this repository is to strengthen data analysis skills by applying th
 
 ---
 
-## 📄 License
+## 👨‍💻 Author  
 
-© 2026 Rahul Chatterjee. All rights reserved.
+<div align="left">
 
-This project is for educational and learning purposes. You are free to use the code for personal use, but please provide appropriate credit if reused or shared.
+**Rahul Chatterjee**  
+🎓 Electronics & Communication Engineering  
+💡 AI/ML Enthusiast | Python Developer | Turning Ideas into Practical Solutions  
 
-⭐ If you find this useful, feel free to star the repository!
+[![GitHub](https://img.shields.io/badge/GitHub-rahul--chatterjee--27-black?style=for-the-badge&logo=github)](https://github.com/rahul-chatterjee-27)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahulchatterjeeofficial/)
+
+</div>
